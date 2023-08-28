@@ -3,7 +3,7 @@
 
 ## Quick start
 
--   Extract [public/dash.zip](public/dash.zip)
+-   Extract [The dash](dash.zip)
 -   Run dash.exe
 -   Add `-webdev -webHudUrl=https://colin-blankenburg.github.io` to the game launch arguments
 -   Start the game
