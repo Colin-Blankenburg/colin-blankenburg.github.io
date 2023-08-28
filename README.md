@@ -1,5 +1,5 @@
 # BlueHUD for Raceroom!
-##This is my experimental HUD for Raceroom, built with [WebHUD](https://github.com/sector3studios/webhud/)
+-   This is my experimental HUD for Raceroom, built with [WebHUD](https://github.com/sector3studios/webhud/)
 
 ## Quick start
 
